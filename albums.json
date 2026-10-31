@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "albums": [
     {
       "id": "where-loyalty-dies",
@@ -16,6 +16,230 @@
       "coverURL": "https://files.secure.website/wscfus/10618544/33383573/last-breath-of-a-false-king-album-cover.png",
       "checkoutURL": "https://dizaztaempire.samcart.com/products/the-problem-the-answer-4-the-prequel-last-breath-of-a-false-king",
       "sortOrder": 2
+    },
+    {
+      "title": "How It Started",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33366867/how-it-started-banner-00006.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-prequel-of-day-of-dizazta-how-it-started",
+      "sortOrder": 3,
+      "id": "how-it-started"
+    },
+    {
+      "title": "LA State Of Mind",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32910300/la-state-of-mind-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/la-state-of-mind-the-album-by-dizazta-universe",
+      "sortOrder": 4,
+      "id": "la-state-of-mind"
+    },
+    {
+      "title": "No Second Guessing",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383622/no-second-guessing-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/no-second-guessing-the-album-by-dizazta-universe",
+      "sortOrder": 5,
+      "id": "no-second-guessing"
+    },
+    {
+      "title": "Confessions in the Dark",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383586/the-prequel-of-pa-bonus-albums-cover-confessions-in-the-dark.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-prequel-of-pa-bonus-albums-cover-confessions-in-the-dark",
+      "sortOrder": 6,
+      "id": "confessions-in-the-dark"
+    },
+    {
+      "title": "Before I Got Here",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383562/before-the-flags-flew-the-prequel-of-pa1-front-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-prequel-of-the-problem-the-answer-2-before-i-got-here",
+      "sortOrder": 7,
+      "id": "before-i-got-here"
+    },
+    {
+      "title": "Almost Made It Home",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383568/the-prequel-of-the-problem-and-the-answer-3-almost-made-it-home.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-prequel-of-the-problem-and-the-answer-3-almost-made-it-home",
+      "sortOrder": 8,
+      "id": "almost-made-it-home"
+    },
+    {
+      "title": "Before The Flags Flew",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383554/before-the-flags-flew-the-prequel-of-pa1.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-prequel-of-the-problem-the-answer-1-before-the-flags-flew",
+      "sortOrder": 9,
+      "id": "before-the-flags-flew"
+    },
+    {
+      "title": "Blood On The Concrete",
+      "category": "Featured Releases",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383589/blood-on-the-concrete-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/blood-on-the-concrete-the-album-by-dizazta-universe",
+      "sortOrder": 10,
+      "id": "blood-on-the-concrete"
+    },
+    {
+      "title": "Blood Stained Playground",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383590/blood-stained-playground-the-album.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/blood-stained-playground-the-album",
+      "sortOrder": 1,
+      "id": "blood-stained-playground"
+    },
+    {
+      "title": "The Problem and The Answer Vol. 4",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32487029/the-problem-and-the-answer-vol-4-radio-edit.jpg",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-problem-and-the-answer-vol-4",
+      "sortOrder": 2,
+      "id": "the-problem-and-the-answer-vol-4"
+    },
+    {
+      "title": "Lost In The Moment",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383620/lost-in-the-moment-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/lost-in-the-moment-the-album-by-dizazta-universe",
+      "sortOrder": 3,
+      "id": "lost-in-the-moment"
+    },
+    {
+      "title": "Mirror Of My Soul",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383621/mirror-of-my-soul-the-album-cover1.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/mirror-of-my-soul-the-album-by-dizazta-universe",
+      "sortOrder": 4,
+      "id": "mirror-of-my-soul"
+    },
+    {
+      "title": "The Eyes Behind Me",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383634/the-eyes-behind-me-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-eyes-behind-me-the-album-by-dizazta-universe",
+      "sortOrder": 5,
+      "id": "the-eyes-behind-me"
+    },
+    {
+      "title": "The Problem And The Answer-vol-2",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32487027/the-problem-and-the-answer-vol-2-radio-version.jpg",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-problem-and-the-answer-vol-2",
+      "sortOrder": 6,
+      "id": "the-problem-and-the-answer-vol-2"
+    },
+    {
+      "title": "The Medusa Effect",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383641/the-medusa-effect-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-medusa-effect-the-album-by-dizazta-universe",
+      "sortOrder": 7,
+      "id": "the-medusa-effect"
+    },
+    {
+      "title": "The Hourglass Shatters",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383637/the-hourglass-shatters-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-hourglass-shatters-the-album-by-dizazta-universe",
+      "sortOrder": 8,
+      "id": "the-hourglass-shatters"
+    },
+    {
+      "title": "Unapologetic",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33383653/unapologetic-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/unapologetic-the-album-by-dizazta-universe",
+      "sortOrder": 9,
+      "id": "unapologetic"
+    },
+    {
+      "title": "Back Then",
+      "category": "Exclusive Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32487021/back-then-by-poetic-punishment.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/back-then-by-poetic-punishment",
+      "sortOrder": 10,
+      "id": "back-then"
+    },
+    {
+      "title": "Resurrected Love",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32489237/resurrected-love-the-album.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/brother-busch-resurrected-love-the-album",
+      "sortOrder": 1,
+      "id": "resurrected-love"
+    },
+    {
+      "title": "A World Without Pain",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857087/a-world-without-pain-album-cover.jpeg",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/a-world-without-pain",
+      "sortOrder": 2,
+      "id": "a-world-without-pain"
+    },
+    {
+      "title": "Escape Babylons Chains",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857135/escape-babylons-chains-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/escape-babylons-chains-the-album-by-brother-busch",
+      "sortOrder": 3,
+      "id": "escape-babylons-chains"
+    },
+    {
+      "title": "The Great Harlots Fall",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857604/the-great-harlots-fall-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-great-harlots-fall-the-album-by-brother-busch",
+      "sortOrder": 4,
+      "id": "the-great-harlots-fall"
+    },
+    {
+      "title": "Through Every Storm",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857611/through-every-storm-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/through-every-storm-the-album-by-brother-busch",
+      "sortOrder": 5,
+      "id": "through-every-storm"
+    },
+    {
+      "title": "The Second Woe Is Coming",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857608/the-second-woe-is-coming-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/the-second-woe-is-coming-the-album-by-brother-busch",
+      "sortOrder": 6,
+      "id": "the-second-woe-is-coming"
+    },
+    {
+      "title": "Streams In The Desert",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857603/streams-in-the-desert-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/streams-in-the-desert-the-album-by-brother-busch",
+      "sortOrder": 7,
+      "id": "streams-in-the-desert"
+    },
+    {
+      "title": "Hope In Jehovahs Kingdom",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857593/hope-in-jehovahs-kingdom-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/hope-in-jehovahs-kingdom-the-album-by-brother-busch",
+      "sortOrder": 8,
+      "id": "hope-in-jehovahs-kingdom"
+    },
+    {
+      "title": "Loves Covenant",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857597/loves-covenant-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/loves-covenant-the-album-by-brother-busch",
+      "sortOrder": 9,
+      "id": "loves-covenant"
+    },
+    {
+      "title": "Lost In The Darkness",
+      "category": "Spiritual Albums",
+      "coverURL": "https://files.secure.website/wscfus/10618544/32857595/lost-in-the-darkness-the-album-cover.png",
+      "checkoutURL": "https://dizaztaempire.samcart.com/products/lost-in-the-darkness-the-album-by-brother-busch",
+      "sortOrder": 10,
+      "id": "lost-in-the-darkness"
     }
   ]
 }
