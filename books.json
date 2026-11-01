@@ -1,0 +1,94 @@
+
+{
+  "catalogVersion": 1,
+  "books": [
+    {
+      "id": "book-01",
+      "title": "Blood Before the Bills- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862496/blood-before-the-bills.png",
+      "readerURL": "https://dizaztapublications.aflip.in/BloodBeforetheBills",
+      "sortOrder": 1
+    },
+    {
+      "id": "book-02",
+      "title": "Where Loyalty Dies- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862512/where-loyalty-dies-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/WhereLoyaltyDies",
+      "sortOrder": 2
+    },
+    {
+      "id": "book-03",
+      "title": "Bulletproof Lies- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862502/bulletproof-lies-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/BulletproofLies",
+      "sortOrder": 3
+    },
+    {
+      "id": "book-04",
+      "title": "Blood Stained Playground- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862501/blood-stained-playground-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/BloodStainedPlayground",
+      "sortOrder": 4
+    },
+    {
+      "id": "book-05",
+      "title": "L.A. State of Mind- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862503/la-state-of-mind-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/L.A.StateofMind",
+      "sortOrder": 5
+    },
+    {
+      "id": "book-06",
+      "title": "Silent Battles- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862511/silent-battles-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/SilentBattles",
+      "sortOrder": 6
+    },
+    {
+      "id": "book-07",
+      "title": "Party-The Covers- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862509/party-the-covers-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/PartyTheCovers",
+      "sortOrder": 7
+    },
+    {
+      "id": "book-08",
+      "title": "Nicotine Fiend- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862507/nicotine-fiend-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/NicotineFiend",
+      "sortOrder": 8
+    },
+    {
+      "id": "book-09",
+      "title": "Before I Got Here- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862500/before-i-got-here-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/BeforeIGotHere",
+      "sortOrder": 9
+    },
+    {
+      "id": "book-10",
+      "title": "No Rest for the Righteous- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862508/no-rest-for-the-righteous-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/NoRestfortheRighteous",
+      "sortOrder": 10
+    },
+    {
+      "id": "book-11",
+      "title": "Set Up Queen- The Book",
+      "category": "DIZAZTA Publications",
+      "coverURL": "https://files.secure.website/wscfus/10618544/33862510/set-up-queen-the-book.png",
+      "readerURL": "https://dizaztapublications.aflip.in/SetUpQueen",
+      "sortOrder": 11
+    }
+  ]
+}
