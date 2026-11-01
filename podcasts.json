@@ -1,0 +1,87 @@
+
+{
+  "catalogVersion": 1,
+  "podcasts": [
+    {
+      "id": "podcast-01",
+      "title": "Before The Shots",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862283/before-the-shots-the-interview.png",
+      "videoURL": "https://vimeo.com/1130600582?share=copy",
+      "sortOrder": 1
+    },
+    {
+      "id": "podcast-02",
+      "title": "Betrayal On Century",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862284/betrayal-on-century-the-interview.png",
+      "videoURL": "https://vimeo.com/1130041856?share=copy",
+      "sortOrder": 2
+    },
+    {
+      "id": "podcast-03",
+      "title": "Circle Got Smaller",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862285/circle-got-smaller-the-interview.png",
+      "videoURL": "https://vimeo.com/1129062984?share=copy",
+      "sortOrder": 3
+    },
+    {
+      "id": "podcast-04",
+      "title": "Cracked Foundations",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862286/cracked-foundations-the-interview.png",
+      "videoURL": "https://vimeo.com/1130290786?share=copy",
+      "sortOrder": 4
+    },
+    {
+      "id": "podcast-05",
+      "title": "Cracks In The Concrete",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862288/exploring-cracks-in-the-concrete-a-journey-from-innocence-to-reality.png",
+      "videoURL": "https://vimeo.com/1130585310?share=copy",
+      "sortOrder": 5
+    },
+    {
+      "id": "podcast-06",
+      "title": "Before The Rage",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862289/exploring-pain-and-loyalty-in-before-the-rage-before-the-rage-the-interview.png",
+      "videoURL": "https://vimeo.com/1130667829?share=copy",
+      "sortOrder": 6
+    },
+    {
+      "id": "podcast-07",
+      "title": "The First Blue Lights",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862290/exploring-trauma-and-resilience-in-music-the-first-blue-lights-the-interview.png",
+      "videoURL": "https://vimeo.com/1129042158?share=copy",
+      "sortOrder": 7
+    },
+    {
+      "id": "podcast-08",
+      "title": "Before The Smoke Cleared",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862291/exploring-trust-and-betrayal-in-storytelling-before-the-smoke-cleared-the-interview.png",
+      "videoURL": "https://vimeo.com/1129331346?share=copy",
+      "sortOrder": 8
+    },
+    {
+      "id": "podcast-09",
+      "title": "How It Started",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862292/how-it-started-the-interview.png",
+      "videoURL": "https://vimeo.com/1130089220?share=copy",
+      "sortOrder": 9
+    },
+    {
+      "id": "podcast-10",
+      "title": "Silent Vows Violent Ends",
+      "category": "Podcast Interviews",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862296/silent-vows-violent-ends-the-interview.png",
+      "videoURL": "https://vimeo.com/1128958133?share=copy",
+      "sortOrder": 10
+    }
+  ]
+}
+  
