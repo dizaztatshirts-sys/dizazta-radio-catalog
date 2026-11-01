@@ -1,0 +1,116 @@
+
+{
+  "catalogVersion": 1,
+  "trailers": [
+    {
+      "id": "tv-01",
+      "show": "Day of DIZAZTA",
+      "season": 2,
+      "episode": 4,
+      "title": "Day of DIZAZTA - Reality Show - S2 E4 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862550/day-of-dizazta-reality-show-s2-e4-trailer.jpg",
+      "videoURL": "https://vimeo.com/681734239?share=copy&fl=sv&fe=ci",
+      "sortOrder": 1
+    },
+    {
+      "id": "tv-02",
+      "show": "Day of DIZAZTA",
+      "season": 2,
+      "episode": 9,
+      "title": "Day of DIZAZTA - Reality Show - S2 E9 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862552/day-of-dizazta-reality-show-s2e9-trailer.jpg",
+      "videoURL": "https://vimeo.com/690797082?share=copy&fl=sv&fe=ci",
+      "sortOrder": 2
+    },
+    {
+      "id": "tv-03",
+      "show": "Day of DIZAZTA",
+      "season": 2,
+      "episode": 6,
+      "title": "Day of DIZAZTA - Reality Show - S2 E6 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862551/day-of-dizazta-reality-show-s2e6-trailer.jpg",
+      "videoURL": "https://vimeo.com/681737861?share=copy",
+      "sortOrder": 3
+    },
+    {
+      "id": "tv-04",
+      "show": "DIZAZTA AREA RADIO LIVE",
+      "season": 1,
+      "episode": 1,
+      "title": "DIZAZTA AREA RADIO LIVE - S1 E1 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862553/dizazta-area-radio-live-episode-1-trailer.jpg",
+      "videoURL": "https://vimeo.com/753198806?share=copy",
+      "sortOrder": 4
+    },
+    {
+      "id": "tv-05",
+      "show": "DIZAZTA'S OLDIES",
+      "season": 1,
+      "episode": 8,
+      "title": "DIZAZTA'S OLDIES - S1 E8 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862554/dizaztas-oldies-s1e8-trailer.jpg",
+      "videoURL": "https://vimeo.com/544461432?share=copy",
+      "sortOrder": 5
+    },
+    {
+      "id": "tv-06",
+      "show": "DIZAZTA'S OLDIES",
+      "season": 1,
+      "episode": 11,
+      "title": "DIZAZTA'S OLDIES - S1 E11 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862555/dizaztas-oldies-s1e11-trailer.jpg",
+      "videoURL": "https://vimeo.com/676688394?share=copy",
+      "sortOrder": 6
+    },
+    {
+      "id": "tv-07",
+      "show": "Gang War (1940)",
+      "season": null,
+      "episode": null,
+      "title": "Gang War (1940) - Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862556/gang-war-1940-trailer.jpg",
+      "videoURL": "https://vimeo.com/694518352?share=copy",
+      "sortOrder": 7
+    },
+    {
+      "id": "tv-08",
+      "show": "Rubin Hurricane Carter",
+      "season": null,
+      "episode": null,
+      "title": "Rubin Hurricane Carter - Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862557/rubin-hurricane-carter-trailer.jpg",
+      "videoURL": "https://vimeo.com/752841919?share=copy",
+      "sortOrder": 8
+    },
+    {
+      "id": "tv-09",
+      "show": "THE JAZZ INVASION",
+      "season": 4,
+      "episode": 6,
+      "title": "THE JAZZ INVASION - S4 E6 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862558/the-jazz-invasion-s4e6-2-trailer.jpg",
+      "videoURL": "https://vimeo.com/554606298?share=copy",
+      "sortOrder": 9
+    },
+    {
+      "id": "tv-10",
+      "show": "THE JAZZ INVASION",
+      "season": 4,
+      "episode": 10,
+      "title": "THE JAZZ INVASION - S4 E10 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862559/the-jazz-invasion-s4-e10-trailer.jpg",
+      "videoURL": "https://vimeo.com/774449606?share=copy",
+      "sortOrder": 10
+    },
+    {
+      "id": "tv-11",
+      "show": "THE JAZZ INVASION",
+      "season": 4,
+      "episode": 9,
+      "title": "THE JAZZ INVASION - S4 E9 Trailer",
+      "thumbnailURL": "https://files.secure.website/wscfus/10618544/33862566/the-jazz-invasion-s4e9-trailer.jpg",
+      "videoURL": "https://vimeo.com/692715948?share=copy&fl=sv&fe=ci",
+      "sortOrder": 11
+    }
+  ]
+}
